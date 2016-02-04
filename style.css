@@ -1,11 +1,12 @@
 /*
-Theme Name:         Activist Network Main Theme - Redux
-Theme URI:          https://github.com/glocalcoop/anp-network-main-redux
-Description:        A theme for the main site of an ANP network, based on Sage with Hybrid Core and Bootstrap
-Version:            2.0.0
+Theme Name:         Activist Network Main Child Theme
+Theme URI:          https://github.com/glocalcoop/anp-network-main-redux-child
+Description:        A child theme for the main site of an ANP network, based on Sage with Hybrid Core and Bootstrap
+Version:            1.0.0
 Author:             Pea, Glocal
 Author URI:         https://glocal.coop
-Text Domain:        anp-network-main
+Text Domain:        anp-network-main-child
+Template:           anp-network-main-redux
 
 License:            GPLv3
 License URI:        http://www.gnu.org/licenses/gpl-3.0-standalone.html
